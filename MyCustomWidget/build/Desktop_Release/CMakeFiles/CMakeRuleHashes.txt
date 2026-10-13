@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+a7f7b4e068b0fc0ba9fbf812d953a895 CMakeFiles/MyCustomWidget_autogen
+05de42eaeaa090015863cd2e91db5478 MyCustomWidget_autogen/timestamp

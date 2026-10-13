@@ -1,0 +1,9 @@
+C:/Users/shchi/OneDrive/Documents/TestWidgetApp/build/Desktop_Debug/CMakeFiles/TestWidgetApp.dir
+C:/Users/shchi/OneDrive/Documents/TestWidgetApp/build/Desktop_Debug/CMakeFiles/edit_cache.dir
+C:/Users/shchi/OneDrive/Documents/TestWidgetApp/build/Desktop_Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/shchi/OneDrive/Documents/TestWidgetApp/build/Desktop_Debug/CMakeFiles/list_install_components.dir
+C:/Users/shchi/OneDrive/Documents/TestWidgetApp/build/Desktop_Debug/CMakeFiles/install.dir
+C:/Users/shchi/OneDrive/Documents/TestWidgetApp/build/Desktop_Debug/CMakeFiles/install/local.dir
+C:/Users/shchi/OneDrive/Documents/TestWidgetApp/build/Desktop_Debug/CMakeFiles/install/strip.dir
+C:/Users/shchi/OneDrive/Documents/TestWidgetApp/build/Desktop_Debug/CMakeFiles/TestWidgetApp_autogen_timestamp_deps.dir
+C:/Users/shchi/OneDrive/Documents/TestWidgetApp/build/Desktop_Debug/CMakeFiles/TestWidgetApp_autogen.dir

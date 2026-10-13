@@ -1,0 +1,20 @@
+# === УНИВЕРСАЛЬНОЕ ПОДКЛЮЧЕНИЕ КАСТОМНОГО ВИДЖЕТА ===
+# 1. Говорим компилятору искать заголовочные файлы в соседней папке MyCustomWidget
+target_include_directories(TestWidgetApp PRIVATE "${CMAKE_CURRENT_SOURCE_DIR}/../MyCustomWidget")
+
+# 2. Автоматически определяем расширение библиотеки в зависимости от ОС (Windows или macOS)
+if(WIN32)
+    # Для Windows (ищет файл .dll.a в папке сборки библиотеки)
+    set(MY_WIDGET_LIB "${CMAKE_CURRENT_BINARY_DIR}/../MyCustomWidget/libMyCustomWidget.dll.a")
+else()
+    # Для macOS (ищет файл .dylib в папке сборки библиотеки)
+    set(MY_WIDGET_LIB "${CMAKE_CURRENT_BINARY_DIR}/../MyCustomWidget/libMyCustomWidget.dylib")
+endif()
+
+# 3. Связываем программу с модулями Qt и нашей библиотекой
+target_link_libraries(TestWidgetApp PRIVATE
+    Qt${QT_VERSION_MAJOR}::Widgets
+    Qt${QT_VERSION_MAJOR}::Gui
+    "${MY_WIDGET_LIB}"
+)
+

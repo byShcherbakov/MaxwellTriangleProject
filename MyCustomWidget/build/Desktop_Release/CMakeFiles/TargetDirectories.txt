@@ -1,0 +1,5 @@
+C:/Users/shchi/OneDrive/Documents/MyCustomWidget/build/Desktop_Release/CMakeFiles/MyCustomWidget.dir
+C:/Users/shchi/OneDrive/Documents/MyCustomWidget/build/Desktop_Release/CMakeFiles/edit_cache.dir
+C:/Users/shchi/OneDrive/Documents/MyCustomWidget/build/Desktop_Release/CMakeFiles/rebuild_cache.dir
+C:/Users/shchi/OneDrive/Documents/MyCustomWidget/build/Desktop_Release/CMakeFiles/MyCustomWidget_autogen_timestamp_deps.dir
+C:/Users/shchi/OneDrive/Documents/MyCustomWidget/build/Desktop_Release/CMakeFiles/MyCustomWidget_autogen.dir

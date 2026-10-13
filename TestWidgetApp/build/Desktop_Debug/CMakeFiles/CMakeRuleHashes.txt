@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+79fdb4495438b02f0f0b2fdc3edfd295 CMakeFiles/TestWidgetApp_autogen
+019c28276a9acee5b115b3779ce6ec6c TestWidgetApp_autogen/timestamp
